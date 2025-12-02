@@ -29,6 +29,7 @@ export default function HeroSection() {
       <div className="flex flex-col lg:flex-row mt-10 justify-center items-center">
         <video
           autoPlay
+          preload="metadata"
           loop
           muted
           className="rounded-lg w-1/2 border border-orange-700 shadow-orange-400 mx-2 my-4"
@@ -38,6 +39,7 @@ export default function HeroSection() {
         </video>
         <video
           autoPlay
+          preload="metadata"
           loop
           muted
           className="rounded-lg w-1/2 border border-orange-700 shadow-orange-400 mx-2 my-4"
