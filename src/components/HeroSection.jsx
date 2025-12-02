@@ -26,7 +26,7 @@ export default function HeroSection() {
           </Button>
         </div>
       </div>
-      <div className="flex flex-col lg:flex-row mt-10 justify-center items-center">
+       <div className="flex mt-10 justify-center">
         <video
           autoPlay
           preload="metadata"
