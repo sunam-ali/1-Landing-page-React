@@ -17,7 +17,7 @@ export default function HeroSection() {
           intutive development tool. Get started today and turn your imagination
           into immersive reality!
         </p>
-        <div className="flex justify-center my-10">
+        <div className="flex flex-col justify-center my-10 sm:flex-row gap-y-4">
           <Button className="bg-linear-to-r from-orange-500 to-red-500 mx-3 ">
             Start for free
           </Button>
