@@ -10,7 +10,6 @@ SunamVR Build Tools is an intuitive development tool built with **React** and **
 - [About the Project](#about-the-project)
 - [Features](#features)
 - [Built With](#built-with)
-- [Project Structure](#project-structure)
 - [Getting Started](#getting-started)
 
 ---
@@ -47,19 +46,6 @@ The app itself is a **mock tool for VR app development**, giving users an idea o
 - [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework
 
 ---
-
-## Project Structure
-
-1-Landing-Page/
-│
-├── public/ # Static files
-├── src/
-│ ├── assets/ # Images, icons, and other media
-│ ├── components/ # Reusable components
-│ ├── data/ # diffrent data files like testimonials, features etc
-│ ├── App.jsx # Main App component
-│ └── index.jsx # Entry point
-└── package.json
 
 ## Getting Started
 
