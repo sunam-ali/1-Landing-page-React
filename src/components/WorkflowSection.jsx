@@ -1,6 +1,6 @@
 import codeImage from "../assets/code.jpg";
 import { checklistItems } from "../data/checklistitems";
-import WorkflowCard from "./ui/cards/WorkFlowCard";
+import WorkflowCard from "./ui/cards/WorkflowCard";
 
 export default function WorkflowSection() {
   return (
